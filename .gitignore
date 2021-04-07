@@ -1,0 +1,11 @@
+/.nyc_output/
+/coverage/
+/dist/
+/node_modules/
+.DS_Store
+.vscode
+.eslintrc.json
+*.log
+*.rdb
+config/local*json
+*.tgz
